@@ -1,5 +1,20 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-littleutils (0.2.4-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version 0.2.4
+    - Fix syntax warning (Closes: #1085931)
+  * Bump policy version (no changes)
+  * Add new build dependencies
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jochen Sprickerhof <jspricke@debian.org>  Fri, 22 Nov 2024 13:19:51 +0100
+
+python-littleutils (0.2.2-2) unstable; urgency=medium
+
+  * source only upload
+
+ -- Jochen Sprickerhof <jspricke@debian.org>  Fri, 16 Dec 2022 12:16:06 +0100
+
+python-littleutils (0.2.2-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Jochen Sprickerhof <jspricke@debian.org>  Wed, 14 Dec 2022 23:33:24 +0100
